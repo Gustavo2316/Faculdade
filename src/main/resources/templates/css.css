@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+/* Alinhar a imagem no centro e ajustar a largura conforme necessário */
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+/* Estilo para o título principal */
+h1 {
+    color: #333; /* Cor do texto */
+    font-size: 24px; /* Tamanho da fonte */
+}
+
+/* Estilo para o texto abaixo da imagem */
+p {
+    color: #666; /* Cor do texto */
+    font-size: 18px; /* Tamanho da fonte */
+}
